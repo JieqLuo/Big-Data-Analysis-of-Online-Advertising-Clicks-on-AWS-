@@ -1,6 +1,6 @@
 # Big Data Project
 
-The goal of the project is to identify one or more question of interest based on a large dataset to produce an interesting result. You are welcome to use any combination of the tools we learned in class, or any cloud platform. You are also welcome to use other tools/techniques not specifically learned in class, as long as using them is is **in addition to** and not instead of the tools learned in class.
+The goal of the project is to identify one or more question of interest based on a large dataset to produce an interesting result. 
 
 ## Dataset Description and Location
 
