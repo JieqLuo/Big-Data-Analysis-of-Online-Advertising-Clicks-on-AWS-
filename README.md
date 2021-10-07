@@ -1,6 +1,6 @@
 # Big Data Project- Jieqiao Luo
 
-The requirements and the description of the dataset are [here](dataset-and-requirements.md).
+The description of the dataset are [here](dataset-and-requirements.md).
 
 # Executive Summary
 The project aims to explore contextual ads and predict whether a contextual ad will be clicked if a search expression is given. It includes the exploration of history click rate, ad position in a page, user login status, search query status, search information, user information and so on. pivot tables are given as results of exploration of relationship between different factors and ad'click status. Factors are chosen according to the pivot tables to find possible important factors for prediction of contextual ad click. Different classifier models are used to predict contextual ads' click including random forest, logistic regression. 
