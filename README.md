@@ -85,6 +85,8 @@ AUPR is smaller than aupr of random forest.
 
 The prediction of ads click is much hard than expected. The reason might be an extreme imbalance dataset.
 
+Updated GBDT was used and worked as the best model.
+
 # Future work:
 Imbalanced dataset will be processed by undersampling and oversampling to improve prediction performance of models.
 Model performace will be imporved by using further feature engineering and more models.
@@ -92,7 +94,7 @@ Model performace will be imporved by using further feature engineering and more 
 Combined_"stream is a great table to use for the analysis of non-contextual ads. Combining ad_info, combined_stream, user_info, category, location tables can explore if phone visit can be predicted and how the non-contexutal ads are affected by other factors. Also, samples will be taken to draw diverse data visualization besides table results. Clutering can also be used to find different click rate groups' potential characteristics.
 
 
-# Takeaways from the course
+# Takeaways from the project
 Distributed data processing, hadoop, Mapreduce, pyspark, pipelines, use of linux, AWS EMR are what I got from this course. 
 
 # Code file
